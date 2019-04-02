@@ -66,6 +66,13 @@ p {
   margin: 0 -46px 0 -23px !important;
 }
 
+a {
+  color: #494949;
+}
+
+a:hover {
+  color: #494949;
+}
 
 /*learn*/
 h1 {
