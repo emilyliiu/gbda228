@@ -96,7 +96,7 @@ p {
 }
 
 .vision h3 {
-  padding-top: .2em;
+  padding-top: .57em;
   margin-left: 6em;
 }
 
@@ -105,11 +105,10 @@ p {
 }
 
 .vision li {
-  line-height: 1.7em;
-  margin-left: 20em;
+  line-height: 4em;
   font-weight: 200;
   letter-spacing: .5px;
-  padding-bottom: 1.33em;
+  padding-left: 2.3em;
 }
 
   /*goals*/
@@ -130,9 +129,9 @@ p {
 }
 
 .goals li {
-  margin-left: 4em;
-  line-height: 1.7em;
+  line-height: 3.35em;
   font-weight: 200;
+  padding-left: 2.3em;
 letter-spacing: .5px;
 padding-bottom: .88em;
 }
